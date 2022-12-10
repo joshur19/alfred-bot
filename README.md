@@ -25,7 +25,8 @@ If you want to run Alfred Bot at a later date there's a few steps to get him sta
 3) Plug in both the Telegram Bot token and your NewsAPI key into the appropriate places in config.py and responses.py, respectively
 4) Install the python package "requests" by your preferred method
 5) Done! Start up the code and start chatting with your Bot ID on Telegram! 
-![The bots' first messages!](https://i.imgur.com/tRTH13p.png)
+
+<p align="center"><img src= "https://i.imgur.com/tRTH13p.png" width="400"></p>
 
 
 
