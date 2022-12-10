@@ -1,4 +1,5 @@
-# oss_sandbox
+# Alfred Bot
+## Your very own (very basic) personal assistant!
 
 ### Hello!
 
