@@ -41,7 +41,7 @@ Alfred can also keep track of your groceries! He uses the python sqlite module t
 <p align="center"><img src= "https://i.imgur.com/jxQz1OA.png" width="600"></p>
 
 
-#### Meidtation Reminder and RemindMe
+#### Meditation Reminder and RemindMe
 The meditation reminder is a simple daily reminder that can be toggled with ``/meditation``.
 Use ``/remindme`` to remind yourself of various different things!
 
