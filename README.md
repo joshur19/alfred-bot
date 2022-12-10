@@ -22,7 +22,7 @@ If you want to run Alfred Bot at a later date there's a few steps to get him sta
 <p align="center"><img src= "https://i.imgur.com/tRTH13p.png" width="600"></p>
 
 #### Alfred Basics
-Use ``/help`` to list all available commands.
+Use ``/help`` to list all available commands.<br>
 ``/gm`` toggles your good morning brief from enabled/disabled and vice versa. ``/gm trigger`` prompts the good morning brief a single time. <br>
 ``/grocery`` only works with arguments, "``add``", "``remove``", "``view``". These are for manipulating and viewing your grocery list.<br>
 ``/meditation`` toggles your daily meditation reminder.<br>
