@@ -1,3 +1,10 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 # Alfred Bot
 ### Your very own (very basic) personal assistant!
 
@@ -10,7 +17,7 @@ Welcome to the **Alfred Bot** repository! Here you'll find a friendly and helpfu
 #### Deploying Alfred Bot
 During the period of class presentation for OSS the Bot should be up and running on my laptop, so feel free to search up Alfreds ID "@AlfredTheWizard_Bot" on Telegram and start chatting!
 
-<center><img src= "https://i.imgur.com/FipSOL0.png" width="300"></center>
+<img src= "https://i.imgur.com/FipSOL0.png" width="300" class="center">
 
 If you want to run Alfred Bot at a later date there's a few steps to get him started.
 1) Obtain your Telegram API token by contacting @BotFather on Telegram. [Official Documentation here](https://core.telegram.org/bots/tutorial#obtain-your-bot-token) (alternatively just watch a quick YouTube video, it's super easy!)
